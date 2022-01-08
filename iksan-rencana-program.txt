@@ -2,8 +2,9 @@ Rencana Program
 - PHP Framework
   *laravel
   *codeigniter
-    ^ versi 1
-    ^ versi 4
+   ^ versi 3
+   ^ versi 4
+- Visual Basic
 - Javascript
 - HTML
 - CSS
