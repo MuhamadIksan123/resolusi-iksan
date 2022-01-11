@@ -4,6 +4,7 @@ Rencana Program
   *codeigniter
    ^ versi 3
    ^ versi 4
+   ^ versi 2
 - Visual Basic
 - Javascript
 - HTML
